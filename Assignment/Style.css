@@ -1,0 +1,135 @@
+<Style>
+	
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		color: white;
+		text-align: center;
+		display:inline-block;
+		vertical-align:top;
+	}
+	
+
+	li a {
+	  display: block;
+	  padding: 25px 25px;
+	  text-decoration: none;
+	  font-size: 1.37vw;
+	  font-family: Arial, Helvetica, sans-serif;
+	}
+	a:link {
+		color: white;
+		
+	}
+	a:visited {
+	    color: red;
+		
+	}
+	a:hover {
+		color: yellow;
+	}
+	.img3 {
+		padding: 1px 60px;
+		width: 13.02vw;
+		height: 9.28vh;
+	}
+	.img1 {
+		padding: 20px 40px;
+		width: 1.62vw;
+		height: 3.97vh;
+	}
+	.top{
+		height:25%;
+		width:100%;
+		display:inline-block;
+		background-color:black;
+		overflow: hidden;
+	}
+	.left{
+		height:75%;
+		width:55%;
+		display:inline-block;
+		overflow: hidden;
+	}
+	.raft {
+		width: 55.14vw;
+		height: 87.87vh;
+		display: block;
+	}
+	.center{
+		height:75%;
+		width:12.7%;
+		display:inline-block;
+		overflow: hidden;
+	}
+	.mini{
+		width: 12.50vw;
+		height: 17.55vh;
+		display: block;
+	}
+	.right{
+		height: 75%;
+		width: 31.7%;
+		display:inline-block;
+		overflow: hidden;
+	}
+	
+	h2{
+		padding: 10px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	li {
+	  float: left;
+	}
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		color: white;
+		text-align: center;
+		display:inline-block;
+		vertical-align:top;
+	}
+	p{
+		color:black;
+		font-size: 1.30vw;
+	    font-family: Arial, Helvetica, sans-serif;
+	}
+	.img2{
+		width: 3.25vw;
+		height: 7.95vh;
+	}
+	span {
+	  text-decoration: line-through;
+	}
+	p.bold{
+		font-size: 2.27vw;
+		font-weight: bold;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	p.col{
+		padding: 10px 10px 10px 10px;
+		font-size: 2.27vw;
+		font-family: Arial, Helvetica, sans-serif;
+		background-color: #ffd400;
+		text-align: center;
+	}
+	.logo{
+		width: 4.55vw;
+		height: 11.27vh;
+		margin-left: 2.60vw;
+	}
+	@viewport{
+		zoom: 1.0;
+		width: extend-to-zoom;
+	}
+	@-ms-viewport{
+		width: extend-to-zoom;
+		zoom: 1.0;
+	}
+	
+	
+</Style>
